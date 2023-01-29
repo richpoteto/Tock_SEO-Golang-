@@ -1,12 +1,6 @@
 
 # SEO
 
-<p align="center">
-<img src="docs/pics/logo_200.png" alt="SEO" title="SEO" />
-</p>
-
-
-
 SEO is a dynamic renderer to provide zero-configuration server-side rendering mainly to web crawlers in order to effortlessly improve SEO for websites developed in modern Javascript frameworks such as React.js, Vue.js, Angular.js, etc... SEO works totally independently of your frontend and backend stacks
 
 <p align="center">
